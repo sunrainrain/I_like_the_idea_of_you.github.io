@@ -8063,6 +8063,18 @@ fieldset:disabled .btn {
     background-image: var(--bs-gradient) !important;
 }
 
+.bg-clothes {
+    background-color: #41B1AC !important;
+}
+
+.bg-toy {
+    background-color: #E96D5D !important;
+}
+
+.bg-clean {
+    background-color: #A0D1E8 !important;
+}
+
 .bg-img {
     background-image: url("/Users/sunnyliao/Desktop/I_like_the_idea_of_you.github.io/assets/img/背景.jpg");
     background-repeat: no-repeat;
@@ -10937,7 +10949,27 @@ html {
     color: #fff;
 }
 
+.footer-day {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background-color: #75B85C;
+    color: #fff;
+}
+
 .copyright {
     background-color: #F6C64E;
     color: #fff;
+}
+
+.story-color {
+    color: #fff;
+}
+
+.story-text {
+    font-weight: 400;
+    text-align: center;
+}
+
+.story-color2 {
+    color: #000;
 }
